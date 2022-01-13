@@ -3,8 +3,7 @@ $(document).ready(function(){
     var redDiv= 
             "<div><button style=background:red;width:80px;height:20px></button>\
             <Button id=hide_btn style=background:yellow;border-radius:50%;display:inline>X</button>\
-            </div>"   
-            $(".red1").append(html1);
+            </div>";
     
     var greenDiv=
         "<div><button style=background:green;width:80px;height:20px></button>\
